@@ -1,2 +1,1 @@
-# Bun-Project
-Source code of bun project
+My First Bun Project using the WSL(Windows Subsystem for Linux)
